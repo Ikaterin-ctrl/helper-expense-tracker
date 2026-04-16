@@ -1,0 +1,27 @@
+# Framework Web
+Flask==3.0.0
+python-dotenv==1.0.0
+
+# Google Sheets
+gspread==5.12.0
+google-auth==2.25.2
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+
+# OCR (Tesseract)
+pytesseract==0.3.10
+Pillow==10.1.0
+
+# Processamento de Texto e Data
+python-dateutil==2.8.2
+regex==2023.10.3
+
+# HTTP Requests
+requests==2.31.0
+
+# Widget Windows
+customtkinter==5.2.1
+plyer==2.1.0
+
+# Utilidades
+pytz==2023.3
